@@ -164,3 +164,6 @@ MonoBehaviour:
   isDrag: 0
   isUsed: 0
   index: 4
+  EndTime: 0
+  spriteRendrer: {fileID: 0}
+  gameManager: {fileID: 0}
